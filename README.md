@@ -6,7 +6,7 @@ The `ipython` notebook reproduces the scattering curves shown in Fig. 4 of [JACS
 If you find this useful please cite [JACS 139 (10), 3697-3705](https://pubs.acs.org/doi/abs/10.1021/jacs.6b11717).
 
 ## Use
-Open `simulated_scattering_pattern_2017RAJACS.ipynb` and go through the implementation. You can also download the notebook (and the input files: *24merPCBM.tpr*
+Open `simulated_scattering_pattern_2017RAJACS.ipynb` and go through the implementation. You can also download the notebook (and the input files: *24merPCBM.tpr*, *as-cast.gro*, and *annealed.gro*) and re-run it yourself -- or adapt it to another morphology or to another system.
 
 ## License
 
